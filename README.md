@@ -4,7 +4,7 @@ This project helps customers gain visibility into the resources used across thei
 
 ---
 
-## Report a Bug or New Feature Request
+## 📌 Report a Bug or New Feature Request
 
 - Report a [🐛 Bug](https://github.com/apachecom40net/azure-inventory/issues/new?template=bug_report.md)
 - [✨ New Feature](https://github.com/apachecom40net/azure-inventory/issues/new?template=feature_request.md) Request
