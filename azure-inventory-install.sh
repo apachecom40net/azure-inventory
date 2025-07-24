@@ -9,6 +9,7 @@
 git clone https://github.com/apachecom40net/azure-inventory.git /usr/local/bin/azure-inventory
 
 cd /usr/local/bin/azure-inventory
+apt install python3.12-venv
 python3 -m venv .venv
 
 source ./.venv/bin/activate
