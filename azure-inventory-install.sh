@@ -6,19 +6,19 @@
 
 # # clone this repo in /usr/local/bin
 
-git clone https://github.com/apachecom40net/azure-inventory.git /usr/local/bin/azure-inventory/bin
+git clone https://github.com/apachecom40net/azure-inventory.git /usr/local/azure-inventory/bin
 
-cd /usr/local/bin/azure-inventory/bin
+cd /usr/local/azure-inventory/bin
 apt install -y python3.12-venv
 python3 -m venv .venv
 
-source ./.venv/bin/activate
+source /usr/local/azure-inventory/bin/.venv/bin/activate
 pip install -r requirements.txt
 
 ## move *.sh file Up to be them accecsible through path
-mv ./azure-inventory.sh ../../azure-inventory
-mv ./azure-inventory-by-subs.sh ../../azure-inventory-by-subs
+mv ./azure-inventory.sh /usr/local/bin/azure-inventory
+mv ./azure-inventory-by-subs.sh /usr/local/bin/azure-inventory-by-subs
 
 ## make them execiutables
-chmod +x ../../azure-inventory
-chmod +x ../../azure-inventory-by-subs
+chmod +x /usr/local/bin/azure-inventory
+chmod +x /usr/local/bin/azure-inventory-by-subs
