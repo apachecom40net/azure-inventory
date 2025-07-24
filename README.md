@@ -45,7 +45,7 @@ While the tool can be installed and used directly from the Azure Cloud Shell or 
 Use the following command to install the tool
 
 ```sh
-curl -sSL https://raw.githubusercontent.com/apachecom40net/azure-inventory/refs/heads/main/azure-inventory-install.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/apachecom40net/azure-inventory/refs/heads/main/azure-inventory-install.sh| sudo bash
 ```
 
 # 3. 📌 Usage Instructions
