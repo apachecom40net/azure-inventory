@@ -1,6 +1,14 @@
 # 📘 Azure Inventory
 
 This project helps customers gain visibility into the resources used across their Azure subscriptions and identify key areas that should be prioritized for protection using a CNAPP (Cloud-Native Application Protection Platform) solution.
+
+---
+
+##
+
+- Report a [Bug](#)
+- [New Feature](#) Request
+
 ---
 
 ## 📑 Table of Content
