@@ -4,10 +4,10 @@ This project helps customers gain visibility into the resources used across thei
 
 ---
 
-##
+## Report a Bug or New Feature Request
 
-- Report a [Bug](#)
-- [New Feature](#) Request
+- Report a [🐛 Bug](#)
+- [✨ New Feature](#) Request
 
 ---
 
